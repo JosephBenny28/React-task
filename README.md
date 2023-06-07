@@ -36,6 +36,6 @@ The project structure is organized as follows:
 
 The following dependencies are used in the Product List application:
 
-1.  @material-ui/core: Material-UI library for UI components.
+1.  @react-bootstrap: Bootstrap library for UI components.
 2.  react-select: Customizable select component for React.
-3.  @material-ui/icons: Material-UI icons library.
+3.  @react-bootstrap-icons: Bootstrap-UI icons library
