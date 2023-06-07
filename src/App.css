@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Imgsize {
+  width: 50%;
+  height: 300px;
+}
+
+.product-list {
+  background-color: #8EE4AF;
+  border-radius: 10px;
+}
+
+.main{
+  background-color: #d7f8e3;
+}
